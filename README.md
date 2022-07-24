@@ -38,7 +38,7 @@ uBlock Origin
 
 **An efficient blocker add-on for various browsers. Fast, potent, and lean.**
 
-uBlock Origin is **NOT** an "ad blocker": [it is a wide-spectrum blocker][Blocking] -- which happens to be able to function as a mere "ad blocker". The default behavior of uBlock Origin when newly installed is to block ads, trackers and malware sites -- through [_EasyList_][EasyList], [_EasyPrivacy_][EasyPrivacy], [_Peter Lowe’s ad/tracking/malware servers_][Peters List], [_Online Malicious URL Blocklist_][Malicious Blocklist], and uBlock Origin's [own filter lists][UBlock Filters].
+uBlock Origin is **NOT** an "ad blocker": [it's a wide-spectrum blocker][Blocking] -- which happens to be able to function as a mere "ad blocker". The default behavior of uBlock Origin when newly installed is to block ads, trackers and malware sites -- through [_EasyList_][EasyList], [_EasyPrivacy_][EasyPrivacy], [_Peter Lowe’s ad/tracking/malware servers_][Peters List], [_Online Malicious URL Blocklist_][Malicious Blocklist], and uBlock Origin's [own filter lists][UBlock Filters].
 
 ***
 
@@ -86,7 +86,7 @@ You can install the latest version [manually][Manual Installation], from the [Ch
 
 There is also a development version in the Chrome Web Store if you want to test uBlock Origin with the latest changes: see [_uBlock Origin dev build_][Chrome Dev].
 
-It is expected that uBlock Origin is compatible with any Chromium-based browsers.
+It's expected that uBlock Origin is compatible with any Chromium-based browsers.
 
 #### Firefox / Firefox for Android
 
@@ -115,7 +115,7 @@ Developer: [@el1t].
 
 Development version available at <https://github.com/el1t/uBlock-Safari#ublock-originfor-safari>.
 
-Warning: It is not possible for extensions like uBlock Origin to work with Safari 13+. See <https://github.com/el1t/uBlock-Safari/issues/158>.
+Warning: It's not possible for extensions like uBlock Origin to work with Safari 13+. See <https://github.com/el1t/uBlock-Safari/issues/158>.
 
 Note that issues specific to the Safari fork are the responsibility of the current maintainer, I have no control over the code base of the fork.
 
